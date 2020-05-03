@@ -1,0 +1,11 @@
+C:\Users\arsenyneustroev\source\repos\BookStoreApp\DB\obj\Debug\DB.csprojAssemblyReference.cache
+C:\Users\arsenyneustroev\source\repos\BookStoreApp\DB\bin\Debug\DB.exe.config
+C:\Users\arsenyneustroev\source\repos\BookStoreApp\DB\bin\Debug\DB.exe
+C:\Users\arsenyneustroev\source\repos\BookStoreApp\DB\bin\Debug\DB.pdb
+C:\Users\arsenyneustroev\source\repos\BookStoreApp\DB\bin\Debug\EntityFramework.dll
+C:\Users\arsenyneustroev\source\repos\BookStoreApp\DB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\arsenyneustroev\source\repos\BookStoreApp\DB\bin\Debug\EntityFramework.xml
+C:\Users\arsenyneustroev\source\repos\BookStoreApp\DB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\arsenyneustroev\source\repos\BookStoreApp\DB\obj\Debug\DB.csproj.CopyComplete
+C:\Users\arsenyneustroev\source\repos\BookStoreApp\DB\obj\Debug\DB.exe
+C:\Users\arsenyneustroev\source\repos\BookStoreApp\DB\obj\Debug\DB.pdb

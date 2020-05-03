@@ -1,0 +1,7 @@
+C:\Users\arsenyneustroev\source\repos\BookStoreApp\Controls\bin\Debug\Controls.dll
+C:\Users\arsenyneustroev\source\repos\BookStoreApp\Controls\bin\Debug\Controls.pdb
+C:\Users\arsenyneustroev\source\repos\BookStoreApp\Controls\obj\Debug\Controls.Game.resources
+C:\Users\arsenyneustroev\source\repos\BookStoreApp\Controls\obj\Debug\Controls.csproj.GenerateResource.cache
+C:\Users\arsenyneustroev\source\repos\BookStoreApp\Controls\obj\Debug\Controls.dll
+C:\Users\arsenyneustroev\source\repos\BookStoreApp\Controls\obj\Debug\Controls.pdb
+C:\Users\arsenyneustroev\source\repos\BookStoreApp\Controls\obj\Debug\Controls.csprojAssemblyReference.cache

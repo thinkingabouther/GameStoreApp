@@ -1,0 +1,16 @@
+C:\Users\arsenyneustroev\source\repos\BookStoreApp\BookStoreApp\bin\Debug\BookStoreApp.exe.config
+C:\Users\arsenyneustroev\source\repos\BookStoreApp\BookStoreApp\bin\Debug\BookStoreApp.exe
+C:\Users\arsenyneustroev\source\repos\BookStoreApp\BookStoreApp\bin\Debug\BookStoreApp.pdb
+C:\Users\arsenyneustroev\source\repos\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csprojAssemblyReference.cache
+C:\Users\arsenyneustroev\source\repos\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.Properties.Resources.resources
+C:\Users\arsenyneustroev\source\repos\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.GenerateResource.cache
+C:\Users\arsenyneustroev\source\repos\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.exe
+C:\Users\arsenyneustroev\source\repos\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.pdb
+C:\Users\arsenyneustroev\source\repos\BookStoreApp\BookStoreApp\bin\Debug\EntityFramework.dll
+C:\Users\arsenyneustroev\source\repos\BookStoreApp\BookStoreApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\arsenyneustroev\source\repos\BookStoreApp\BookStoreApp\bin\Debug\EntityFramework.xml
+C:\Users\arsenyneustroev\source\repos\BookStoreApp\BookStoreApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\arsenyneustroev\source\repos\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.CopyComplete
+C:\Users\arsenyneustroev\source\repos\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.GameImages.resources
+C:\Users\arsenyneustroev\source\repos\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.MainWindow.resources
+C:\Users\arsenyneustroev\source\repos\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.GameControl.resources
